@@ -1,0 +1,6 @@
+{
+  "name": "FreshWash Laundry",
+  "description": "Website resmi FreshWash Laundry - Layanan laundry modern kiloan, satuan, sepatu & dry cleaning dengan gratis antar jemput.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
